@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/AzmiyaAzam/Github_banner_02/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Azmiya Azam</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
